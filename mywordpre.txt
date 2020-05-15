@@ -1,1 +1,0 @@
-#The above yaml code will create a woed press with mysql and php and mout it to port 8000
